@@ -1,0 +1,32 @@
+{
+    "galaxies":[
+        {
+            "name": "Milky Way",
+            "type": "Spiral Galaxy",
+            "diameter": 100000, 
+            "mass": 100e+11, 
+            "bulge": {
+              "shape": "Barred",
+              "composition": "Mostly older stars"
+            },
+            "disk": {
+              "type": "Spiral",
+              "composition": "Stars, gas, and dust"
+            },
+            "halo": {
+              "composition": "Dark matter and some old stars"
+            },
+            "spiral_arms": [
+              {
+                "name": "Perseus Arm",
+                "length": 11000
+              },
+              {
+                "name": "Scutum-Centaurus Arm",
+                "length": 10000
+              }
+            ],
+            "solar_systems":[]
+        }          
+    ]
+}

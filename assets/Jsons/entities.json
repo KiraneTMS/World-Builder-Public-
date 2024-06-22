@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "name": "Griffon",
+      "type": "monster",
+      "universe": "", 
+      "image": "", 
+      "species": "Avian",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves"
+      },
+      "diet": "Carnivore (preys on small mammals and livestock)",
+      "habitat": "Mountains and plains",
+      "size": {
+        "length": "3 meters (wingspan)",
+        "weight": "800 kg",
+        "height": "1.5 meters (at the shoulder)"
+      },
+      "description": "A majestic creature with the head and wings of an eagle and the body of a lion. Griffons are known for their intelligence, loyalty, and fierce fighting spirit.",
+      "special_abilities": [
+        "Flight",
+        "Sharp talons and beak for powerful attacks",
+        "Keen eyesight and hearing"
+      ]
+    },
+    {
+      "name": "Nightshade Flower",
+      "type": "plant",
+      "universe": "", 
+      "image": "",
+      "species": "Solanaceae",
+      "taxonomy": {
+        "kingdom": "Plantae",
+        "phylum": "Magnoliophyta",
+        "class": "Magnoliopsida"
+      },
+      "diet": "N/A (photosynthesis)",
+      "habitat": "Damp forests and shady undergrowth",
+      "size": {
+        "length": "30 cm (stem)",
+        "weight": "0.1 kg",
+        "height": "50 cm (including flower)"
+      },
+      "description": "A beautiful but highly poisonous flower with bell-shaped purple blooms. All parts of the Nightshade Flower are toxic and can be fatal if ingested.",
+      "special_abilities": [
+        "Highly toxic (deadly in large doses)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "races": [
+    {
+      "name": "Gods",
+      "type": "Celestial Being",
+      "image": [],
+      "biology": {
+        "average_lifespan": 0,
+        "height": {
+          "min": 0,
+          "max": 0
+        },
+        "distinguishing_features": [
+          "Immense magical power",
+          "Superhuman strength, speed, and durability",
+          "Ageless appearance (often youthful or majestic)",
+          "May possess unique physical attributes like glowing eyes or radiant auras"
+        ]
+      },
+      "culture": {
+        "language": "Celestial (understood by most divine beings)",
+        "government": "Theocratic (individual gods rule specific domains or pantheons exist)",
+        "social_structure": "Hierarchical (power determines status)"
+      },
+      "habitat": "Celestial realms or demiplanes",
+      "special_abilities": [
+        "Reality manipulation (limited by the Primordia Hierarchy Law)",
+        "Domain-specific powers (e.g., war god - exceptional combat prowess, nature god - control over elements)",
+        "Granting blessings and curses to mortals"
+      ],
+      "relations": {
+        "allies": "Benevolent celestials, some mortals",
+        "rivals": "Malevolent deities, other god pantheons"
+      }
+    },
+    {
+      "name": "Celestial Dragons",
+      "type": "Celestial Being",
+      "image": [],
+      "biology": {
+        "average_ lifespan": 10000 , 
+        "height": {
+          "min": 20,
+          "max": 50
+        },
+        "distinguishing_features": [
+          "Immense size and serpentine form",
+          "Scales that shimmer with celestial energy",
+          "Powerful wings for flight",
+          "Elemental breath attacks (fire, lightning, etc.)"
+        ]
+      },
+      "culture": {
+        "language": "Draconic (with celestial influences)",
+        "government": "Varies - some are solitary, others form hierarchical packs",
+        "social_structure": "Respect for elders and strength"
+      },
+      "habitat": "Celestial mountains, high-altitude regions",
+      "special_abilities": [
+        "Immense physical strength and magical resistance",
+        "Flight at incredible speeds",
+        "Elemental manipulation based on their specific type"
+      ],
+      "relations": {
+        "allies": "Benevolent celestials",
+        "rivals": "Other powerful creatures, greedy mortals who hunt them"
+      }
+    },
+    {
+      "name": "Primordials",
+      "type": "Fundamental Entity",
+      "image": [],
+      "biology": {
+        "average_lifespan": "N/A",
+        "height": {
+          "min": "N/A", 
+          "max": "N/A"
+        },
+        "distinguishing_features": [
+          "Embodiment of fundamental forces (fire, water, earth, etc.)",
+          "Immense power exceeding even Gods",
+          "Bound by ancient constraints of the Primordia Hierarchy Law"
+        ]
+      },
+      "culture": {
+        "language": "Primordial (understood by few, if any)",
+        "government": "N/A",
+        "social_structure": "N/A" 
+      },
+      "habitat": "Beyond the mortal realm, primal dimensions",
+      "special_abilities": [
+        "Direct manipulation of fundamental forces",
+        "Shaping the fabric of reality on a grand scale",
+        "Limited influence over lesser beings through Celestial Energy"
+      ],
+      "relations": {
+        "allies": "None (exist outside conventional alliances)",
+        "rivals": "Other Primordials"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+    "characters":[
+        {
+            "name": "Lux",
+            "Race": ["Human"],
+            "Title": ["Leader of All Mortals"],
+            "age": 20,
+            "gender": "Male",
+            "appearance": {
+              "hair": "White",
+              "eyes": ["Gold"],
+              "height": 175,
+              "weight": 69,
+              "description": ""
+            },
+            "personality": {
+              "positive": [],
+              "negative": [],
+              "description": ""
+            },
+            "background": {
+              "birth_date": "",
+              "history": ""
+            },
+            "powers": [
+                {
+                    "name": "",
+                    "type": ""
+                }
+            ],
+            "occupation": "",
+            "goals": [],
+            "relationships": [
+                {
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "story_appearances": [],
+            "quotes": []
+        },
+        {
+            "name": "Rajaki Arine",
+            "Race": ["Human", "God"],
+            "Title": ["Strongest Human", "Mediator"],
+            "age": 2000,
+            "gender": "Male",
+            "appearance": {
+              "hair": "Black",
+              "eyes": ["Black", "Red", "Purple (on Demon Mode)"],
+              "height": 17,
+              "weight": 65,
+              "description": ""
+            },
+            "personality": {
+              "positive": [],
+              "negative": [],
+              "description": ""
+            },
+            "background": {
+              "birth_date": "",
+              "history": ""
+            },
+            "powers": [
+                {
+                    "name": "",
+                    "type": ""
+                }
+            ],
+            "occupation": "",
+            "goals": [],
+            "relationships": [
+                {
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "story_appearances": [],
+            "quotes": []
+        }
+    ]
+}

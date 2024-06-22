@@ -1,0 +1,50 @@
+{
+  "stories": [
+    {
+      "name": "Lux Stories",
+      "description": "Adventure of Lux",
+      "image": [],
+      "verse": "Cosmos Fractus",
+      "main_character": "Lux",
+      "characters": [],
+      "author": "Arin Emir"
+    },
+    {
+      "name": "Echoes of the Sunken Spire",
+      "description": "A group of unlikely heroes delve into the ruins of a forgotten underwater city, seeking a lost artifact and confronting a lurking danger.",
+      "image": [], 
+      "verse": "Cosmos Fractus",
+      "main_character": "Amara, a resourceful treasure hunter",
+      "characters": [
+        "Kael, a stoic paladin haunted by his past",
+        "Finch, a wisecracking gnome inventor",
+        "Zaria, a powerful but enigmatic sorceress"
+      ],
+      "author": "Arin Emir"
+    },
+    {
+      "name": "Whispers of the Machine God",
+      "description": "On a desolate industrial world, a tech-priest on a pilgrimage uncovers a conspiracy that threatens to unleash an ancient mechanical horror.",
+      "image": [],
+      "verse": "Cosmos Fractus",
+      "main_character": "Cyrus, a devout tech-priest with a troubled past",
+      "characters": [
+        "Sienna, a cunning rogue with a hidden agenda",
+        "Thrax, a hulking cybernetic warrior sworn to protect Cyrus"
+      ],
+      "author": "Arin Emir" 
+    },
+    {
+      "name": "Symphony of Starlight",
+      "description": "A young bard with a celestial connection embarks on a quest to restore harmony to the shattered constellations and prevent a cosmic calamity.",
+      "image": [],
+      "verse": "Cosmos Fractus",
+      "main_character": " Lyra, a bard gifted with the power to manipulate starlight",
+      "characters": [
+        "Eldryn, a wise and enigmatic celestial guide",
+        "Corvus, a mischievous shapeshifter with a hidden past"
+      ],
+      "author": "Arin Emir"
+    }
+  ]
+}

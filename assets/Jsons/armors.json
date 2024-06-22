@@ -1,0 +1,85 @@
+{
+    "armors": [
+      {
+        "name": "Dragonscale Helmet",
+        "image": [],
+        "type": "Heavy",
+        "slot": "Helmet",
+        "tier": "Celestial",
+        "creator": "",
+        "materials": [
+          "Celestial Dragon Scales",
+          "Thick Leather Padding"
+        ],
+        "abilities": [
+          {
+            "name": "Dragonhide",
+            "description": "Grants resistance to fire damage and breath attacks."
+          }
+        ],
+        "current_owner": "",
+        "description": "A formidable helmet crafted from the scales of Regulus Rachmana, offering exceptional protection for the head."
+      },
+      {
+        "name": "Dragonscale Chestplate",
+        "image": [],
+        "type": "Heavy",
+        "slot": "Chestplate",
+        "tier": "Celestial",
+        "creator": "",
+        "materials": [
+          "Celestial Dragon Scales",
+          "Reinforced Steel Plates"
+        ],
+        "abilities": [
+          {
+            "name": "Impenetrable",
+            "description": "Increases physical defense against melee attacks."
+          }
+        ],
+        "current_owner": "",
+        "description": "A magnificent chestplate forged from Regulus Rachmana's dragon scales, providing unmatched protection for the torso."
+      },
+      {
+        "name": "Dragonscale Greaves",
+        "image": [],
+        "type": "Heavy",
+        "slot": "Greaves",
+        "tier": "Celestial",
+        "creator": "",
+        "materials": [
+          "Celestial Dragon Scales",
+          "Thick Leather Lining"
+        ],
+        "abilities": [
+          {
+            "name": "Dragon's Might",
+            "description": "Enhances leg strength and agility."
+          }
+        ],
+        "current_owner": "",
+        "description": "Imposing greaves crafted from Regulus Rachmana's dragon scales, shielding the shins and knees while offering increased mobility."
+      },
+      {
+        "name": "Dragonscale Shield",
+        "image": [],
+        "type": "Heavy",
+        "slot": "Shield",
+        "tier": "Celestial",
+        "creator": "", 
+        "materials": [
+          "Celestial Dragon Scale",
+          "Reinforced Steel Frame"
+        ],
+        "abilities": [
+          {
+            "name": "Dragon's Ward",
+            "description": "Grants a chance to deflect incoming attacks."
+          }
+        ],
+        "current_owner": "",
+        "description": "A magnificent shield crafted from a Regulus Rachmana's dragon scale, offering exceptional protection and a symbol of the wearer's prowess."
+      }
+    ]
+  }
+  

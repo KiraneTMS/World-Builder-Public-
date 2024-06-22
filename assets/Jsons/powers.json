@@ -1,0 +1,19 @@
+{
+    "powers": [
+      {
+        "name": "Zettai Ryouiki (Absolute Domain)",
+        "associated_law": "Primordia Hierarchy Law",
+        "type": "Grace",
+        "description": "This ability allows the user to create an impenetrable barrier that negates all attacks below a certain power level, rendering them useless. Additionally, the user possesses a pocket dimension within the Zettai Ryouiki, granting them complete control over the environment within.",
+        "image": [] 
+      },
+      {
+        "name": "Infinity",
+        "associated_law": "Primordia Hierarchy Law",
+        "type": "Grace",
+        "description": "This power grants the user an immeasurable amount of magical energy, surpassing even the most powerful gods. With no known limit to their reserves, these individuals can manipulate and control magic on an unprecedented scale. They can cast spells and perform feats that would be impossible for others to achieve.",
+        "image": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "universes": [
+    {
+      "name": "Adevarian Universe",
+      "description": "A vast and vibrant universe created by the supreme god Adevar. It is governed by a set of fundamental laws known as the Primordia Hierarchy Law.",
+      "image": "", 
+      "multiverse": "Cosmos Fractus",
+      "age": 0,
+      "creator": {
+        "name": "Adevar"
+      },
+      "laws": ["Primordia Hierarchy Law", "Newton's Second Law of Motion"]
+    }
+  ]
+}
+  

@@ -1,0 +1,14 @@
+{
+    "places": [
+      {
+        "name": "Transylvania Castle",
+        "image":[],
+        "type": "Castle",
+        "location": "Capital of Aurelian (Sylvanius City)",
+        "built_date": 0,
+        "owner": "", 
+        "description": "" 
+      }
+    ]
+  }
+  

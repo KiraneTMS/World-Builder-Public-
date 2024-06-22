@@ -1,0 +1,11 @@
+{
+    "continents":[
+        {
+            "name": "",
+            "planet": "",
+            "area": 0,
+            "climates": [],
+            "biomes": []
+        }
+    ]
+}

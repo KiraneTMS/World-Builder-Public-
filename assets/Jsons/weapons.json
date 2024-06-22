@@ -1,0 +1,24 @@
+{
+    "weapons":[
+        {
+            "name": "Dragonscale Gauntlets",
+            "image": [],
+            "type": "Gauntlets",
+            "tier": "Celestial",
+            "creator": "",
+            "materials": [
+              "Celestial Dragon Scales",
+              "Reinforced Steel Gauntlets"
+            ],
+            "abilities": [
+              {
+                "name": "Claws of the Dragon",
+                "description": "Grants increased unarmed damage and grip strength."
+              }
+            ],
+            "current_owner": "",
+            "description": "A pair of ferocious gauntlets forged from The Strongest Celestial Dragon's scales, offering superior protection for the hands and wrists while enhancing offensive capabilities."
+          }
+          
+    ]
+}

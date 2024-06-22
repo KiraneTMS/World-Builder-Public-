@@ -1,0 +1,25 @@
+{
+    "titles": [
+      {
+        "title": "High Mage",
+        "description": "A powerful magic user who has mastered a wide range of spells and disciplines."
+      },
+      {
+        "title": "Royal Knight",
+        "description": "A member of an elite guard sworn to protect the sovereign and their realm."
+      },
+      {
+        "title": "Archdruid",
+        "description": "A revered leader of druidic communities, possessing deep connection to nature and its magic."
+      },
+      {
+        "title": "Shadow Master",
+        "description": "An individual skilled in the art of stealth, assassination, and manipulation from the darkness."
+      },
+      {
+        "title": "Herald of the Apocalypse",
+        "description": "A harbinger of doom, often associated with cataclysmic events or the rise of an evil power."
+      }
+    ]
+}
+  

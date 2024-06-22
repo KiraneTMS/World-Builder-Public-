@@ -1,0 +1,53 @@
+{
+    "landforms":[
+        {
+            "name": "Mount Olympus",
+            "type": "Mountain",
+            "location": {
+              "planet_name": "Earth"
+            },
+            "size": {
+              "height": 2917
+            },
+            "composition": "Rock (primarily granite)",
+            "unique_features": [
+              "Dormant volcano",
+              "Home to many glaciers"
+            ]
+        },
+        {
+            "name": "Nile River",
+            "type": "River",
+            "location": {
+              "planet_name": "Earth"
+            },
+            "size": {
+              "length": 6650
+            },
+            "composition": "Water",
+            "unique_features": [
+              "Longest river on Earth",
+              "Forms a vast delta where it meets the ocean"
+            ]
+        },
+        {
+            "name": "Grand Canyon",
+            "type": "Canyon",
+            "location": {
+              "planet_name": "Earth"
+            },
+            "size": {
+              "length": 446,
+              "width": 29,
+              "depth": 1.8
+            },
+            "composition": "Layered sedimentary rock",
+            "unique_features": [
+              "Carved by the Colorado River over millions of years",
+              "Contains exposed rock layers showcasing geological history",
+              "Habitat for diverse plant and animal life"
+            ]
+          }
+          
+    ]
+}

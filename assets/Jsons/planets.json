@@ -1,0 +1,21 @@
+{
+    "planets":[
+        {
+            "name": "Earth",
+            "type": "Terrestrial",
+            "radius": 6371,
+            "mass": 5.972e+24,
+            "atmosphere": "Nitrogen-oxygen atmosphere with trace amounts of other gases",
+            "orbital_period": 365.256,
+            "rotation_period": 24,
+            "moons": [
+                {
+                    "name": "Moon",
+                    "radius": 1737,
+                    "composition": "Rock and ice"
+                }
+            ],
+            "habitable": true
+        }
+    ]
+}

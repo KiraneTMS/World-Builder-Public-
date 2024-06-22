@@ -1,0 +1,22 @@
+{
+  "solar_systems": [
+    {
+      "name": "Solar System",
+      "star": [
+        {
+          "name": "Sun"
+        }
+      ],
+      "planets": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ]
+    }
+  ]
+}

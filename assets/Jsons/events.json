@@ -1,0 +1,20 @@
+{
+    "events": [
+      {
+        "name": "Birth of Lux",
+        "story_relevance": "High (introduces the main character)", 
+        "image": "",
+        "date": "",
+        "location": "A small village nestled within (location description)", 
+        "participants": [
+          "Lux's mother (name, if known)",
+          "Midwife (name, if known)" 
+        ],
+        "description": "Lux, a healthy baby boy, is born in a small village. (Describe any noteworthy details surrounding the birth).",
+        "spark": "N/A (natural birth)",
+        "outcome": "Lux enters the world.",
+        "related_events": []
+      }
+    ]
+  }
+  
