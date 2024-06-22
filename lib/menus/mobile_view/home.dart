@@ -11,7 +11,7 @@ class HomePhoneContent extends StatelessWidget {
       backgroundColor: Color(0xFF2c3e50),
       appBar: AppBar(
         title: Text('World Builder'),
-        backgroundColor: Color(0xFF34495e),
+        backgroundColor: Color.fromARGB(255, 214, 214, 214),
       ),
       body: FutureBuilder(
         future: Future.wait([
@@ -117,7 +117,7 @@ class HomePhoneContent extends StatelessWidget {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   image: imageUrl.isNotEmpty
-                      ? AssetImage(imageUrl)
+                      ? NetworkImage(imageUrl)
                       : AssetImage('assets/images/unknown_icon.png'),
                   fit: BoxFit.cover,
                 ),

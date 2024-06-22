@@ -10,6 +10,18 @@
       "author": "Arin Emir"
     },
     {
+      "name": "Symphony of Starlight",
+      "description": "A young bard with a celestial connection embarks on a quest to restore harmony to the shattered constellations and prevent a cosmic calamity.",
+      "image": ["https://i.imgur.com/dGhq4jN.jpeg"],
+      "verse": "Cosmos Fractus",
+      "main_character": " Lyra, a bard gifted with the power to manipulate starlight",
+      "characters": [
+        "Eldryn, a wise and enigmatic celestial guide",
+        "Corvus, a mischievous shapeshifter with a hidden past"
+      ],
+      "author": "Arin Emir"
+    },
+    {
       "name": "Echoes of the Sunken Spire",
       "description": "A group of unlikely heroes delve into the ruins of a forgotten underwater city, seeking a lost artifact and confronting a lurking danger.",
       "image": [], 
@@ -33,18 +45,6 @@
         "Thrax, a hulking cybernetic warrior sworn to protect Cyrus"
       ],
       "author": "Arin Emir" 
-    },
-    {
-      "name": "Symphony of Starlight",
-      "description": "A young bard with a celestial connection embarks on a quest to restore harmony to the shattered constellations and prevent a cosmic calamity.",
-      "image": [],
-      "verse": "Cosmos Fractus",
-      "main_character": " Lyra, a bard gifted with the power to manipulate starlight",
-      "characters": [
-        "Eldryn, a wise and enigmatic celestial guide",
-        "Corvus, a mischievous shapeshifter with a hidden past"
-      ],
-      "author": "Arin Emir"
     }
   ]
 }

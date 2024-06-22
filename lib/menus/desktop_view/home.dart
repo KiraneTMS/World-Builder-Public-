@@ -12,7 +12,7 @@ class HomeDesktopContent extends StatelessWidget {
       backgroundColor: Color(0xFF2c3e50),
       appBar: AppBar(
         title: Text('World Builder'),
-        backgroundColor: Color(0xFF34495e),
+        backgroundColor: Color.fromARGB(255, 214, 214, 214),
       ),
       body: FutureBuilder(
         future: Future.wait([
@@ -124,7 +124,7 @@ class HomeDesktopContent extends StatelessWidget {
         children: [
           Expanded(
             child: imageUrl.isNotEmpty   // Check if imageUrl is not empty
-              ? Image.asset(
+              ? Image.network(
                   imageUrl,
                   fit: BoxFit.cover,
                   width: double.infinity,
@@ -143,7 +143,7 @@ class HomeDesktopContent extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 8.0),
+            padding: const EdgeInsets.all(8.0),
             child: Text(
               description,
               style: TextStyle(color: Colors.white70),

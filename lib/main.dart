@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'menus/desktop_view/home.dart';
-import 'menus/phone_view/home.dart';
+import 'menus/mobile_view/home.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -312,21 +312,124 @@ class _MyHomePageState extends State<MyHomePage> {
                           label: Text('Home', style: TextStyle(color: Colors.white)),
                         ),
                         NavigationRailDestination(
-                          icon: Icon(Icons.category, color: Colors.white),
+                          icon: Icon(Icons.shield, color: Colors.white),
                           selectedIcon: Icon(Icons.category, color: Color(0xFF2c3e50)),
                           label: Text('Armors', style: TextStyle(color: Colors.white)),
                         ),
-
                         NavigationRailDestination(
                           icon: Icon(Icons.group, color: Colors.white),
                           selectedIcon: Icon(Icons.group, color: Color(0xFF2c3e50)),
                           label: Text('Characters', style: TextStyle(color: Colors.white)),
                         ),
-
                         NavigationRailDestination(
                           icon: Icon(Icons.location_city, color: Colors.white),
                           selectedIcon: Icon(Icons.location_city, color: Color(0xFF2c3e50)),
                           label: Text('Cities', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.school, color: Colors.white),
+                          selectedIcon: Icon(Icons.school, color: Color(0xFF2c3e50)),
+                          label: Text('Classes', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.public, color: Colors.white),
+                          selectedIcon: Icon(Icons.public, color: Color(0xFF2c3e50)),
+                          label: Text('Continents', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.flag, color: Colors.white),
+                          selectedIcon: Icon(Icons.flag, color: Color(0xFF2c3e50)),
+                          label: Text('Countries', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.supervisor_account, color: Colors.white),
+                          selectedIcon: Icon(Icons.supervisor_account, color: Color(0xFF2c3e50)),
+                          label: Text('Entities', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.event, color: Colors.white),
+                          selectedIcon: Icon(Icons.event, color: Color(0xFF2c3e50)),
+                          label: Text('Events', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.star, color: Colors.white),
+                          selectedIcon: Icon(Icons.star, color: Color(0xFF2c3e50)),
+                          label: Text('Galaxies', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.inventory, color: Colors.white),
+                          selectedIcon: Icon(Icons.inventory, color: Color(0xFF2c3e50)),
+                          label: Text('Items', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.language, color: Colors.white),
+                          selectedIcon: Icon(Icons.language, color: Color(0xFF2c3e50)),
+                          label: Text('Languages', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.terrain, color: Colors.white),
+                          selectedIcon: Icon(Icons.terrain, color: Color(0xFF2c3e50)),
+                          label: Text('Landforms', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.gavel, color: Colors.white),
+                          selectedIcon: Icon(Icons.gavel, color: Color(0xFF2c3e50)),
+                          label: Text('Laws', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.open_in_browser, color: Colors.white),
+                          selectedIcon: Icon(Icons.open_in_browser, color: Color(0xFF2c3e50)),
+                          label: Text('Multiverses', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.place, color: Colors.white),
+                          selectedIcon: Icon(Icons.place, color: Color(0xFF2c3e50)),
+                          label: Text('Places', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.landscape, color: Colors.white),
+                          selectedIcon: Icon(Icons.landscape, color: Color(0xFF2c3e50)),
+                          label: Text('Planets', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.flash_on, color: Colors.white),
+                          selectedIcon: Icon(Icons.flash_on, color: Color(0xFF2c3e50)),
+                          label: Text('Powers', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.people, color: Colors.white),
+                          selectedIcon: Icon(Icons.people, color: Color(0xFF2c3e50)),
+                          label: Text('Races', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.insights, color: Colors.white),
+                          selectedIcon: Icon(Icons.timeline, color: Color(0xFF2c3e50)),
+                          label: Text('Solar Systems', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.stars, color: Colors.white),
+                          selectedIcon: Icon(Icons.stars, color: Color(0xFF2c3e50)),
+                          label: Text('Stars', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.book, color: Colors.white),
+                          selectedIcon: Icon(Icons.book, color: Color(0xFF2c3e50)),
+                          label: Text('Stories', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.title, color: Colors.white),
+                          selectedIcon: Icon(Icons.title, color: Color(0xFF2c3e50)),
+                          label: Text('Titles', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.public_off, color: Colors.white),
+                          selectedIcon: Icon(Icons.public_off, color: Color(0xFF2c3e50)),
+                          label: Text('Universes', style: TextStyle(color: Colors.white)),
+                        ),
+                        NavigationRailDestination(
+                          icon: Icon(Icons.colorize, color: Colors.white),
+                          selectedIcon: Icon(Icons.explore, color: Color(0xFF2c3e50)),
+                          label: Text('Weapons', style: TextStyle(color: Colors.white)),
                         ),
                         // Add more NavigationRailDestination items as needed
                       ],
