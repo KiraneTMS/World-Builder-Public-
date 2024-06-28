@@ -3,8 +3,11 @@
         {
             "name": "Mount Olympus",
             "type": "Mountain",
+            "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Olympus_National_Park_30.jpg/800px-Olympus_National_Park_30.jpg"],
             "location": {
-              "planet_name": "Earth"
+              "planet_name": "Earth",
+              "continents": ["Europe"],
+              "countries": ["Greece"]
             },
             "size": {
               "height": 2917
@@ -18,8 +21,11 @@
         {
             "name": "Nile River",
             "type": "River",
+            "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg/1024px-Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg"],
             "location": {
-              "planet_name": "Earth"
+              "planet_name": "Earth",
+              "continents": ["eastern Africa"],
+              "countries": ["Burundi", "Tanzania", "Rwanda", "the Democratic Republic of the Congo", "Kenya", "Uganda", "Sudan", "Ethiopia", "South Sudan"]
             },
             "size": {
               "length": 6650
@@ -33,8 +39,11 @@
         {
             "name": "Grand Canyon",
             "type": "Canyon",
+            "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/800px-Canyon_River_Tree_%28165872763%29.jpeg"],
             "location": {
-              "planet_name": "Earth"
+              "planet_name": "Earth",
+              "continents": ["North American"],
+              "countries": ["United States"]
             },
             "size": {
               "length": 446,

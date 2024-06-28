@@ -2,13 +2,15 @@
     "cities":[
         {
             "name": "Sylvanius",
+            "image": [],
             "country": "Aurelian",
             "population": 0,
             "area": 0,
             "landmarks": [],
             "founded": 0,
             "description": "",
-            "leaders": ["Aurluna van Sylvania (current)", "Rajaki Arine (current)", "Lumina van Sylvania (former)"],
+            "current_leaders": ["Aurluna van Sylvania", "Rajaki Arine"],
+            "past_leaders":["Lumina van Sylvania", "Adevar"],
             "cultural_influences": [],
             "economic_focus": ""
         }

@@ -2,6 +2,7 @@
   "solar_systems": [
     {
       "name": "Solar System",
+      "images": [],
       "star": [
         {
           "name": "Sun"

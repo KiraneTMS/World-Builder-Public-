@@ -2,6 +2,7 @@
     "galaxies":[
         {
             "name": "Milky Way",
+            "image": [],
             "type": "Spiral Galaxy",
             "diameter": 100000, 
             "mass": 100e+11, 

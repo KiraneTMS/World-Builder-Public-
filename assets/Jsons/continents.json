@@ -1,11 +1,23 @@
 {
-    "continents":[
-        {
-            "name": "",
-            "planet": "",
-            "area": 0,
-            "climates": [],
-            "biomes": []
-        }
+    "continents": [
+      {
+        "name": "Aethel",
+        "image": [""], 
+        "planet": "Aloria",
+        "area": 12000000,
+        "climates": [
+          "Temperate",
+          "Subarctic (mountain regions)",
+          "Tropical (southern regions)"
+        ],
+        "biomes": [
+          "Dense Forests",
+          "Grasslands",
+          "Mountains",
+          "Swamps (coastal regions)",
+          "Deserts (eastern regions)"
+        ]
+      }
     ]
-}
+  }
+  

@@ -1,15 +1,14 @@
 {
-    "items": [
-      {
-        "name": "Starlight Amulet",
-        "image": "",
-        "type": "Jewelry (amulet)",
-        "description": "A beautiful amulet crafted from a luminous crystal that shimmers with an otherworldly light. It is said to have been forged by the celestial beings and imbued with their magic.",
-        "abilities": [
-          "Grants protection from dark magic",
-          "Enhances the user's connection to the stars, potentially allowing for limited astral navigation or divination"
-        ]
-      }
-    ]
-  }
-  
+  "items": [
+    {
+      "name": "Starlight Amulet",
+      "image": "",
+      "type": "Jewelry (amulet)",
+      "description": "A beautiful amulet crafted from a luminous crystal that shimmers with an otherworldly light. It is said to have been forged by the celestial beings and imbued with their magic.",
+      "abilities": [
+        "Grants protection from dark magic",
+        "Enhances the user's connection to the stars, potentially allowing for limited astral navigation or divination"
+      ]
+    }
+  ]
+}  

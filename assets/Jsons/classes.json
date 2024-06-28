@@ -1,12 +1,59 @@
 {
-    "classes":[
-        {
-            "name": "",
-            "description": "",
-            "skills": [],
-            "specializations": [],
-            "lore": ""
-          }
-          
+    "classes": [
+      {
+        "name": "Warrior",
+        "image": ["https://i.imgur.com/o40rnqK.png"], 
+        "description": "Masters of combat, warriors excel in wielding weapons and armor to protect themselves and their allies.",
+        "skills": [
+          "Swordsmanship",
+          "Axemanship",
+          "Shieldsmanship",
+          "Heavy Armor Proficiency",
+          "Endurance"
+        ],
+        "specializations": [
+          "Guardian (focused on defense and battlefield control)",
+          "Berserker (focused on raw damage output)",
+          "Duelist (focused on precise attacks and mobility)"
+        ],
+        "lore": "Warriors are the backbone of many armies, revered for their bravery and unwavering dedication. They train for years to hone their martial prowess and defend their people from threats."
+      },
+      {
+        "name": "Mage",
+        "image": ["https://i.imgur.com/R7bmcBZ.png"], 
+        "description": "Weavers of arcane energy, mages wield powerful spells to manipulate elements, inflict damage, and support their companions.",
+        "skills": [
+          "Fire Magic",
+          "Ice Magic",
+          "Arcane Channeling",
+          "Mana Management",
+          "Ritual Casting"
+        ],
+        "specializations": [
+          "Elementalist (focused on mastering a specific element)",
+          "Evoker (focused on offensive spells and damage dealing)",
+          "Abjurer (focused on protective spells and wards)"
+        ],
+        "lore": "Mages draw upon the arcane energies that permeate the world. They are often seen with suspicion due to the immense power they wield, but their skills are invaluable in combat and exploration."
+      },
+      {
+        "name": "Rogue",
+        "image": ["https://i.imgur.com/FLLw0r2.png"], 
+        "description": "Masters of stealth and deception, rogues specialize in infiltration, trickery, and delivering precise strikes from the shadows.",
+        "skills": [
+          "Lockpicking",
+          "Stealth",
+          "Sleight of Hand",
+          "Deception",
+          "Archery"
+        ],
+        "specializations": [
+          "Assassin (focused on eliminating targets with deadly efficiency)",
+          "Scout (focused on gathering information and navigating treacherous terrain)",
+          "Trickster (focused on manipulating situations and creating distractions)"
+        ],
+        "lore": "Rogues operate in the fringes of society, utilizing their skills for various purposes, from noble thievery to uncovering hidden truths. Their secretive nature and unorthodox methods make them both valuable allies and formidable foes."
+      }
     ]
-}
+  }
+  

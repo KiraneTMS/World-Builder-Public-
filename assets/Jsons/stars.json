@@ -2,6 +2,7 @@
     "stars":[
         {
             "name": "Sun",
+            "images": [],
             "type": "G-type main sequence star",
             "temperature": 5505, 
             "mass": 1.989e+30 

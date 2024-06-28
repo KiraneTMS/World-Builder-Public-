@@ -3,6 +3,7 @@
         {
             "name": "Lux",
             "Race": ["Human"],
+            "image": ["https://i.imgur.com/UFFnoZc.png"],
             "Title": ["Leader of All Mortals"],
             "age": 20,
             "gender": "Male",
@@ -33,6 +34,7 @@
             "relationships": [
                 {
                     "name": "",
+                    "relation": "",
                     "description": ""
                 }
             ],
@@ -42,13 +44,14 @@
         {
             "name": "Rajaki Arine",
             "Race": ["Human", "God"],
-            "Title": ["Strongest Human", "Mediator"],
+            "image": ["https://i.imgur.com/FmAjlZP.png", "https://i.imgur.com/AGeStIi.png", "https://i.imgur.com/U6v8fr8.png"],
+            "Title": ["Strongest Human"],
             "age": 2000,
             "gender": "Male",
             "appearance": {
               "hair": "Black",
               "eyes": ["Black", "Red", "Purple (on Demon Mode)"],
-              "height": 17,
+              "height": 170,
               "weight": 65,
               "description": ""
             },
@@ -63,17 +66,39 @@
             },
             "powers": [
                 {
-                    "name": "",
-                    "type": ""
+                    "name": "Domain Ruler",
+                    "description": "allows its user to manipulate the fabric of space itself. With this power, the user can create their own pocket dimension, fully control it. The user can also move through different dimensions effortlessly and without being detected. One of the most impressive aspects of this power is the user's ability to take control of space in worlds ruled by other gods."
+                },
+                {
+                    "name": "Hyperfocus",
+                    "description": "allows the Rajaki to enter a state of extreme concentration and heightened perception."
+                },
+                {
+                    "name": "Divine intelligence",
+                    "description": "Rajaki can process and understand information at an incredible rate, far surpassing the capabilities of normal humans. Rajaki has the ability to think, learn, and analyze complex problems at a rapid pace, making connections and discovering insights that would be impossible for others to see."
+                },
+                {
+                    "name": "Divine Reflect",
+                    "description": "Rajaki has the innate ability to react and respond to situations at lightning-fast speed, making it almost impossible for his opponents to land a hit on him."
+                },
+                {
+                    "name": "Battle Instinct",
+                    "description": "enabling him to predict the movements of his opponents and quickly come up with a counter-strategy. This talent also allows him to maintain a heightened state of awareness, making it possible for him to detect even the slightest change in his environment. In addition to this, Rajaki's talent allows him to learn and adapt to new fighting styles and techniques quickly. His instincts allow him to grasp the underlying principles of any technique he sees, making it possible for him to incorporate it into his fighting style effortlessly."
                 }
             ],
             "occupation": "",
             "goals": [],
             "relationships": [
-                {
-                    "name": "",
-                    "description": ""
-                }
+              {
+                  "name": "Aurluna van Sylvania",
+                  "relation": "Wife",
+                  "description": ""
+              },
+              {
+                "name": "Adevar",
+                "relation": "Father in Law",
+                "description": ""
+            }
             ],
             "story_appearances": [],
             "quotes": []

@@ -8,10 +8,66 @@
         "image": [] 
       },
       {
-        "name": "Infinity",
+        "name": "Domain Ruler",
         "associated_law": "Primordia Hierarchy Law",
         "type": "Grace",
-        "description": "This power grants the user an immeasurable amount of magical energy, surpassing even the most powerful gods. With no known limit to their reserves, these individuals can manipulate and control magic on an unprecedented scale. They can cast spells and perform feats that would be impossible for others to achieve.",
+        "description": "Allows its user to manipulate the fabric of space itself. With this power, the user can create their own pocket dimension, fully control it, move through different dimensions effortlessly, and take control of space in worlds ruled by other gods.",
+        "image": []
+      },
+      {
+        "name": "Divine Focus",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Allows the user to enter a state of extreme concentration and heightened perception.",
+        "image": []
+      },
+      {
+        "name": "Divine intelligence",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Allows the user to process and understand information at an incredible rate, far surpassing the capabilities of normal humans. The user can think, learn, and analyze complex problems rapidly, making connections and discovering insights impossible for others to see.",
+        "image": []
+      },
+      {
+        "name": "Divine Reflect",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Grants the user the innate ability to react and respond to situations at lightning-fast speed, making it almost impossible for opponents to land a hit.",
+        "image": []
+      },
+      {
+        "name": "Divine Strength",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Grants the user unparalleled physical strength, surpassing the might of most beings.",
+        "image": []
+      },
+      {
+        "name": "Divine Defense",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Enhances the user's ability to withstand attacks and resist damage through divine protection.",
+        "image": []
+      },
+      {
+        "name": "Divine Agility",
+        "associated_law": "Divine Embodiment",
+        "type": "Natural Ability",
+        "description": "Bestows the user with unparalleled speed and agility, allowing swift movements and reflexes.",
+        "image": []
+      },
+      {
+        "name": "Battle Instinct",
+        "associated_law": "Law of Xenoethology",
+        "type": "Natural Ability",
+        "description": "Enables the user to predict opponents' movements and quickly come up with counter-strategies. Enhances awareness to detect even the slightest change in the environment. Allows quick learning and adaptation to new fighting styles and techniques.",
+        "image": []
+      },
+      {
+        "name": "Swords Master",
+        "associated_law": "Law of Neural Adaptation",
+        "type": "Acquired Skill",
+        "description": "Mastery of the sword arts, allowing the user to wield swords with unparalleled skill and precision. The user can perform complex techniques and maneuvers effortlessly, making them a formidable combatant.",
         "image": []
       }
     ]

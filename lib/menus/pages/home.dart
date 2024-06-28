@@ -4,10 +4,19 @@ import '../../data_manager/models.dart';
 import '../../data_manager/data_loader.dart';
 
 class HomeDesktopContent extends StatelessWidget {
-  const HomeDesktopContent({Key? key}) : super(key: key);
+  HomeDesktopContent({Key? key}) : super(key: key);
+  int _itemPerRows = 0;
+  double _childAspectRatio = 0;
 
   @override
   Widget build(BuildContext context) {
+    if (MediaQuery.of(context).size.width > 600) {
+      _itemPerRows = 3;
+      _childAspectRatio = 0.8;
+    } else {
+      _itemPerRows = 2;
+      _childAspectRatio = 0.7;
+    }
     return Scaffold(
       backgroundColor: Color(0xFF2c3e50),
       appBar: AppBar(
@@ -26,9 +35,9 @@ class HomeDesktopContent extends StatelessWidget {
           } else if (snapshot.hasError) {
             return Center(child: Text('Error: ${snapshot.error}'));
           } else {
-            final List<Story> stories = snapshot.data![0];
-            final List<Universe> universes = snapshot.data![1];
-            final List<Multiverse> multiverses = snapshot.data![2];
+            final List<HomeStory> stories = snapshot.data![0];
+            final List<HomeUniverse> universes = snapshot.data![1];
+            final List<HomeMultiverse> multiverses = snapshot.data![2];
 
             return SingleChildScrollView(
               padding: const EdgeInsets.all(16.0),
@@ -59,8 +68,8 @@ class HomeDesktopContent extends StatelessWidget {
     );
   }
 
-  Widget _buildStoriesSection(List<Story> stories) {
-    return _buildGridSection<Story>(
+  Widget _buildStoriesSection(List<HomeStory> stories) {
+    return _buildGridSection<HomeStory>(
       items: stories,
       itemBuilder: (story) => _buildGridItem(
         title: story.name,
@@ -70,24 +79,24 @@ class HomeDesktopContent extends StatelessWidget {
     );
   }
 
-  Widget _buildUniversesSection(List<Universe> universes) {
-    return _buildGridSection<Universe>(
+  Widget _buildUniversesSection(List<HomeUniverse> universes) {
+    return _buildGridSection<HomeUniverse>(
       items: universes,
       itemBuilder: (universe) => _buildGridItem(
         title: universe.name,
         description: universe.description,
-        imageUrl: universe.image,
+        imageUrl: universe.image.isNotEmpty ? universe.image[0] : '',
       ),
     );
   }
 
-  Widget _buildMultiversesSection(List<Multiverse> multiverses) {
-    return _buildGridSection<Multiverse>(
+  Widget _buildMultiversesSection(List<HomeMultiverse> multiverses) {
+    return _buildGridSection<HomeMultiverse>(
       items: multiverses,
       itemBuilder: (multiverse) => _buildGridItem(
         title: multiverse.name,
         description: multiverse.description,
-        imageUrl: multiverse.image,
+        imageUrl: multiverse.image.isNotEmpty ? multiverse.image[0] : '',
       ),
     );
   }
@@ -100,8 +109,8 @@ class HomeDesktopContent extends StatelessWidget {
       shrinkWrap: true,
       physics: NeverScrollableScrollPhysics(),
       gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-        crossAxisCount: 3,
-        childAspectRatio: 2 / 3,
+        crossAxisCount: _itemPerRows,
+        childAspectRatio: _childAspectRatio,
         crossAxisSpacing: 16,
         mainAxisSpacing: 16,
       ),

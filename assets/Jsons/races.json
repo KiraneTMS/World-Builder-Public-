@@ -71,10 +71,10 @@
       "type": "Fundamental Entity",
       "image": [],
       "biology": {
-        "average_lifespan": "N/A",
+        "average_lifespan": 0,
         "height": {
-          "min": "N/A", 
-          "max": "N/A"
+          "min": 0, 
+          "max": 0
         },
         "distinguishing_features": [
           "Embodiment of fundamental forces (fire, water, earth, etc.)",
